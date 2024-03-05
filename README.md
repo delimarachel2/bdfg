@@ -1,4 +1,4 @@
-# TKO Chatng fdg
+# TKO Chang fdg
 
 TKO Chat is a Web3 Social app on Taiko. It is based on the [Iggy Social](https://iggy.social) template. It uses [Orbis SDK](https://useorbis.com) and [Ceramic Network](https://ceramic.network/) in the background. For usernames it uses [Punk Domains](https://punk.domains/).
 
